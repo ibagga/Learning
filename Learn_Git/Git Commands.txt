@@ -1,7 +1,7 @@
 ********************************************* Git Configuration ***************************************
 
--> git config --------------------------------------- : global user.name "ibagga"
-   git config --------------------------------------- : global user.email "ishu1070@gmail.com"
+-> git config --------------------------------------- : git config --global user.name "ibagga"
+   git config --------------------------------------- : git config --global user.email "ishu1070@gmail.com"
 -> Check configuration------------------------------- : git config --list
 
 ********************************************* Clone Repository *****************************************
