@@ -52,6 +52,7 @@ git fetch -p
 ***************************************** Others ************************************************************
 -> How to untrack a file------------------------------------ : git reset filename.txt
 -> Check previous version of a file in local repo----------- : git log --stat and after that git show commitid
+-> Revert\Checkout to a previous version of file------------ : git checkout a2160d877cf944324984d2df948c2c581d70668d -- TestVersion.txt
 
 Connection:
 ssh-keygen
